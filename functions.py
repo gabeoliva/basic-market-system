@@ -12,3 +12,5 @@ def add_product(list):
         price = float(input("Price:\n"))
         prod = Product(code, name, price)
         list.append(prod) 
+
+#you can rename the function's name
